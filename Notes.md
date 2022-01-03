@@ -59,7 +59,9 @@ If two sets are comparable (e.g. grade on test 1 and grade on test 2), matplotli
 
 Consider using seaborn or Altair (newer Python libraries) instead of matplotlib.
 
-Chapter 4: Linear Algebra
+### Chapter 4: Linear Algebra
+Vector: "Points in some finite-dimensional space"
+Scalar: number
 
 
 ## Open Questions
