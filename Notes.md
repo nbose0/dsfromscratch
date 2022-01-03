@@ -42,12 +42,12 @@ Bar chart:
 `plt.bar()`
 
 Tip
-`
+```
 # x-axis is 2017, 2018
 # if you don't do the following, matplotlib will label the x-axis 0, 1
 # and then add a +2.013e3 off in the corner (bad matplotlib!)
 plt.ticklabel_format(useOffset=False)
-`
+```
 
 Line chart: show trends
 `plt.plot()`
