@@ -68,19 +68,25 @@ Scalar: number
 ### Chapter 1: Introduction
 
 ### Chapter 2: A Crash Course in Python
-0. Is it necessary to restart terminal if you added something to ~/.bash_profile and ran `source ~/.bash_profile`?
+2.0. Is it necessary to restart terminal if you added something to ~/.bash_profile and ran `source ~/.bash_profile`?
 
-1. Is list comprehension lazy evaluation?
+2.1. Is list comprehension lazy evaluation?
 Ans: No.
 
-2. When should you use `yield` in a program? What is the output of `yield`? 
+2.2. When should you use `yield` in a program? What is the output of `yield`? 
 Ans:
 
 ### Chapter 3: Visualization
 
 ### Chapter 4: Linear Algebra
 
+4.1. What is a dot product conceptually?
 
+4.2. How do you visualize a vector on a graph? Isn't it a point on an x dimensional plane?
+
+4.3. Why is the magnitude of a vector the sqrt of the sums of its components?
+
+4.4. What does it mean to say that two vectors are x distance apart?
 
 
 
