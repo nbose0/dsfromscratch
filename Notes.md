@@ -63,6 +63,11 @@ Consider using seaborn or Altair (newer Python libraries) instead of matplotlib.
 Vector: "Points in some finite-dimensional space"
 Scalar: number
 
+### Chapter 5: Statistics
+Mean heavily affected by outliers. However, easier to recalculate if a few data points change.
+Median harder to compute if a few data points change. Will need to resort.
+
+Dispersion: how spread out the data are. Range (max-min) is an example of dispersion. Variance is another example. Interquartile range (75%-25%) is less affected by outliers.
 
 ## Open Questions
 ### Chapter 1: Introduction
@@ -88,6 +93,8 @@ Ans:
 
 4.4. What does it mean to say that two vectors are x distance apart?
 
+### Chapter 5: Statistics
 
+5.1. What is variance conceptually?
 
-
+5.2. What is covariance?
